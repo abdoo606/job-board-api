@@ -20,3 +20,7 @@ pytest projects/15-job-board -q
 - Facets are computed on the filtered set, not the whole corpus
 - Filters compose: location, remote, salary ceiling, required tags
 - Relevance, newest and salary sort modes with stable tie-breaking
+
+## Repository
+- GitHub: https://github.com/{owner}/job-board-api
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
